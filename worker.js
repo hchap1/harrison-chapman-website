@@ -131,8 +131,7 @@ function homePage() {
     `
     <h1>Welcome</h1>
     <p>
-      Personal website and portfolio. This space can later include projects,
-      robotics work, software tools, research, or anything you'd like.
+	  I like robots and programming =)
     </p>
 
     <a class="button" href="https://github.com/hchap1" target="_blank">
@@ -152,12 +151,11 @@ function informationPage() {
     `
     <h1>Information</h1>
     <p>
-      This page can contain background information, CV details, technical
-      experience, robotics work, software development, or anything else.
+		UQ Comsci/Math Student
     </p>
 
     <p>
-      Placeholder sections you might add later:
+		Sections
     </p>
 
     <ul>
