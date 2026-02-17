@@ -186,7 +186,7 @@ function contactPage() {
     </a>
 
     <p style="margin-top:30px; color:#8b949e;">
-      Email placeholder: your@email.com
+      Email placeholder: hchap1@hotmail.com
     </p>
     `
   );
